@@ -1,0 +1,7 @@
+{
+  "name": "Quant Casino Bankroll Terminal",
+  "description": "A sophisticated, Bloomberg-style management platform for online casino players focusing on risk management, multi-platform balancing, and AI-driven session analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
